@@ -1,0 +1,61 @@
+/* Color and fonts */
+body  {
+	background-color: rgb(220, 230, 255);
+	color: rgb(30, 30,n 30);
+	font-family: Lucida grande
+	font-size: 18px;
+}
+
+h1 {
+	color: #c36ca4;
+    font-family: Comic sans MS;
+    font-weight: 800;
+    letter-spacing: 5px;
+    font-size: 32px;
+    text-transform: uppercase;
+	}
+
+h2 {
+	color: #c36ca4;
+	font-family: Lucida grande;
+	font-weight: 600;
+	letter-spacing: 2px;
+	font-size: 20;
+	text-transform: uppercase;
+}
+a{
+	text-decoration: underline; 
+	color: blue;
+}
+
+a:hover {
+	color: rgb(36, 143, 36);
+}
+
+
+
+
+div  {
+	background: rgb(220, 230, 255);
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 0 15px 35px rgb(50, 50, 93);
+    margin: 30 auto;
+    width: 590px;
+    text-align: center; 
+}
+
+
+
+
+.img-circle{
+	border-radius: 50%
+}
+
+
+
+
+
+
+
+
